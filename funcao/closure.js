@@ -1,5 +1,5 @@
 //Closure é o escopo criado quando uma função é delcarada
-// Esse escopo permiet a função acessar e manipular variáveis externas à função 
+// Esse escopo permite a função acessar e manipular variáveis externas à função 
 
 const x = 'Global'
 
